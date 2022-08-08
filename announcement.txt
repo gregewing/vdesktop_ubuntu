@@ -1,0 +1,8 @@
+If you've been using this container image then I need to let you know about a few updates.
+
+This image has been merged with my image gregewing/vdesktop_ubuntu:latest and there are a few feature upgrades. for more information please head over to the page for the new container here : https://hub.docker.com/r/gregewing/vdesktop_ubuntu
+
+
+For a while at least, I'll continue to upload the built container image to both repositories but please take note that this build is deprecated and will be removed from the docker hub at some point.  This is your warning, please switch to the image above as soon as possible to avoid disappointment.
+
+If all this means nothing to you, please contact the person who provided access to this virtual desktop and make sure they know they need to take action to keep it working and up to date.
