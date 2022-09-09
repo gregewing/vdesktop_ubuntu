@@ -2,5 +2,5 @@
 
 README.me is on docker hub:
 
-<A HREF="https://hub.docker.com/repository/docker/gregewing/vdesktop_ubuntu">https://hub.docker.com/repository/docker/gregewing/vdesktop_ubuntu</a>
+<A HREF="https://hub.docker.com/repository/docker/r/vdesktop_ubuntu">https://hub.docker.com/repository/docker/r/vdesktop_ubuntu</a>
 
